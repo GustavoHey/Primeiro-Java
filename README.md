@@ -9,5 +9,5 @@ Aqui foi onde começou o aprendizado de Java na Unifil, sendo esse uma "calculad
 - **Java**
 
 ## Contato
-## Gustavo Henrique C.
+Gustavo Henrique C.
 Para mais informações, entre em contato com [gustavoheri.contato@gmail.com] ou [[Links](https://gustavohey.github.io/perfil/)].
